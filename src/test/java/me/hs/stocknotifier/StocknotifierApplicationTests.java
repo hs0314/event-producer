@@ -1,10 +1,10 @@
-package me.hs.eventproducer;
+package me.hs.stocknotifier;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EventproducerApplicationTests {
+class StocknotifierApplicationTests {
 
 	@Test
 	void contextLoads() {

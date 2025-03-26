@@ -1,1 +1,1 @@
-rootProject.name = "eventproducer"
+rootProject.name = "stocknotifier"

@@ -1,4 +1,4 @@
-package me.hs.eventproducer.common
+package me.hs.stocknotifier.common.auth
 
 data class AuthRequest(
         val grant_type: String = "client_credentials", // fixed
